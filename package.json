@@ -1,0 +1,26 @@
+{
+  "name": "meusite",
+  "version": "1.0.0",
+  "description": "Meu site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1", 
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matteusprado/meusite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matteusprado/meusite/issues"
+  },
+  "homepage": "https://github.com/matteusprado/meusite#readme",
+  "dependencies": {
+    "next": "^12.2.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
